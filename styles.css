@@ -1,1 +1,13 @@
 /* your code */
+.tablebody{
+	width:600px;
+	height:150px;
+	border-radius:20px;
+}
+.tabhead{
+	background-color:#215a8e;
+
+}
+.tabdata2{
+	background-color:#dddddd;
+}
